@@ -1,4 +1,4 @@
-# Musify
+# Meals
 
 Meals is a website containing a collection of recipes from various culinary countries. That consumes Meals API to get data of all categories, filter categories, and detail meals. This project is for CMLABS Frontend Internship Test.
 
